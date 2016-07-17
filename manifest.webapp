@@ -1,7 +1,7 @@
 {
   "name": "Reminders App",
   "description": "Reminders App",
-  "launch_path": "/Index.html",
+  "launch_path": "/index.html",
   "icons": {
     "16": "/images/icon16x16.png",
     "48": "/images/icon48x48.png",
